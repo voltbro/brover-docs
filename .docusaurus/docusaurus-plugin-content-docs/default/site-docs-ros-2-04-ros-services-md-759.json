@@ -22,5 +22,9 @@
   "previous": {
     "title": "ROS топики",
     "permalink": "/docs/ROS2/topics"
+  },
+  "next": {
+    "title": "Полезные ссылки",
+    "permalink": "/docs/ROS2/links"
   }
 }

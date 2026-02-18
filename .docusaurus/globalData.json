@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "ROS2/links",
+              "path": "/docs/ROS2/links",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "ROS2/nodes",
               "path": "/docs/ROS2/nodes",
               "sidebar": "tutorialSidebar"

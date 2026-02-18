@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '80b'),
+    component: ComponentCreator('/docs', '5a0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '6d2'),
+        component: ComponentCreator('/docs', '001'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ff1'),
+            component: ComponentCreator('/docs', '4ae'),
             routes: [
               {
                 path: '/docs/introduction',
@@ -93,6 +93,12 @@ export default [
               {
                 path: '/docs/ROS2/image',
                 component: ComponentCreator('/docs/ROS2/image', 'fa9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/ROS2/links',
+                component: ComponentCreator('/docs/ROS2/links', '891'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
