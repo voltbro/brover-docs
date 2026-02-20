@@ -1,5 +1,6 @@
 ---
 id: overview
+slug: /
 title: Общая информация
 sidebar_label: Общая информация
 sidebar_position: 1
